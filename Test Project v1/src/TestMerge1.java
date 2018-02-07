@@ -1,5 +1,11 @@
 public class TestMerge1 {
 	public static void main(String[] args) {
-		System.out.println("Test Merge1");
+<<<<<<< HEAD
+		System.out.println("Test Merge2");
 	}
 }
+=======
+		System.out.println("Test Merge2");
+	}
+}
+>>>>>>> refs/remotes/origin/master
